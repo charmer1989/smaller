@@ -1,0 +1,27 @@
+{
+  "name": "smaller",
+  "version": "0.0.5",
+  "description": "smaller image",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": {
+    "smaller": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehcnah/smaller.git"
+  },
+  "keywords": [
+    "image"
+  ],
+  "author": "nehcnah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehcnah/smaller/issues"
+  },
+  "homepage": "https://github.com/nehcnah/smaller#readme"
+}
