@@ -12,7 +12,7 @@ const makeFileList = () => {
 			console.log('read files error...')
 		}
 		files.forEach((file)=>{
-			if(/jpg|png/.test(file)){
+			if(/jpeg|jpg|png/.test(file)){
 				fileList.push(file);
 			}
 		})
